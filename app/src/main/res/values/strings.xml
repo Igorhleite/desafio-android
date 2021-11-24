@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">PicPay</string>
     <string name="title">Contatos</string>
-    <string name="error">Ocorreu um erro. Tente novamente.</string>
-
+    <string name="error">Ocorreu um erro ao atualizar os dados. Tente novamente mais tarde.</string>
+    <string name="user_name">\@%s</string>
+    <string name="try_again">Tentar novamente</string>
+    <string name="share_contact">Olá segue o contato solicitado:\n\nNome de usuário: \@%s\nNome: %s</string>
+    <string name="error_message">Não foi possível obter sua lista de contatos.\nTente novamente mais tarde.</string>
+    <string name="user_name_not">Not available</string>
 </resources>
