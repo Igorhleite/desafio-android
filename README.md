@@ -18,3 +18,35 @@ Com o passar do tempo identificamos alguns problemas que impedem esse aplicativo
   - Por outro lado, testes unitários rodam em um ambiente de execução diferenciado e são menos fiéis ao dia-a-dia de nossos usuários, então testes instrumentados também são importantes.
 
 Boa sorte! =)
+
+
+### PicPay - Desafio Android - Meus resultados
+
+Foram definidos alguns pré requisitos a serem cumpridos no desafio, a fim de cumprir tais pré requisitos foram ultilizados algumas tecnologias:
+
+* [Coil - Image Loader](https://coil-kt.github.io/coil/getting_started/)
+* [Navigation](https://developer.android.com/guide/navigation/navigation-getting-started)
+* [Hilt](https://developer.android.com/training/dependency-injection/hilt-android?hl=pt-br)
+* [Retrofit](https://square.github.io/retrofit/)
+* [Gson](https://github.com/google/gson)
+* [Coroutines](https://developer.android.com/kotlin/coroutines)
+* [Room](https://developer.android.com/training/data-storage/room)
+* [Mockk](https://mockk.io/)
+* [Kotlinx-Couroutines-Test](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-test/)
+* [Espresso](https://developer.android.com/training/testing/espresso)
+* [Fragment Testing](https://developer.android.com/training/basics/fragments/testing?hl=pt-br)
+
+
+#### Figma
+
+A fim de tornar o desenvolvimento da interface mais eficaz um protópipo foi desenvolvido no figma:
+* [Protópito Figma](https://www.figma.com/file/YXpJUv8FDM5mbetRPQtJO9/Desafio---PicPay-Android?node-id=0%3A1)
+
+#### Resultados
+<p float="left">
+<img src="https://github.com/LeiteHIgor/desafio-android/blob/dev/imgs/open.gif" width="300"/>
+<img src="https://github.com/LeiteHIgor/desafio-android/blob/dev/imgs/share.gif" width="300"/>
+<img src="https://github.com/LeiteHIgor/desafio-android/blob/dev/imgs/detail.gif" width="300"/>
+<img src="https://github.com/LeiteHIgor/desafio-android/blob/dev/imgs/error_refresh.gif" width="300"/>
+<img src="https://github.com/LeiteHIgor/desafio-android/blob/dev/imgs/error_not_db.gif" width="300"/>
+</p>
