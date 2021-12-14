@@ -44,9 +44,9 @@ A fim de tornar o desenvolvimento da interface mais eficaz um protópipo foi des
 
 #### Resultados
 <p float="left">
-<img src="https://github.com/LeiteHIgor/desafio-android/blob/dev/imgs/open.gif" width="300"/>
-<img src="https://github.com/LeiteHIgor/desafio-android/blob/dev/imgs/share.gif" width="300"/>
-<img src="https://github.com/LeiteHIgor/desafio-android/blob/dev/imgs/detail.gif" width="300"/>
-<img src="https://github.com/LeiteHIgor/desafio-android/blob/dev/imgs/error_refresh.gif" width="300"/>
-<img src="https://github.com/LeiteHIgor/desafio-android/blob/dev/imgs/error_not_db.gif" width="300"/>
+<img src="https://github.com/Igorhleite/desafio-android/blob/dev/imgs/open.gif" width="300"/>
+<img src="https://github.com/Igorhleite/desafio-android/blob/dev/imgs/share.gif" width="300"/>
+<img src="https://github.com/Igorhleite/desafio-android/blob/dev/imgs/detail.gif" width="300"/>
+<img src="https://github.com/Igorhleite/desafio-android/blob/dev/imgs/error_refresh.gif" width="300"/>
+<img src="https://github.com/Igorhleite/desafio-android/blob/dev/imgs/error_not_db.gif" width="300"/>
 </p>
